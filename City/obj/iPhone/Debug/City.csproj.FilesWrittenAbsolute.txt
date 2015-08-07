@@ -1,0 +1,9 @@
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/actool/partial-info.plist
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/bin/iPhone/Debug/City.exe.mdb
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/bin/iPhone/Debug/City.exe
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/City.exe
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/City.exe.mdb

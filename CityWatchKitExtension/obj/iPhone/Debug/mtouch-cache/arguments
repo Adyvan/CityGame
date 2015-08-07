@@ -1,0 +1,37 @@
+# Version: 8.10.3.2 (8b265d6)
+# [first argument, ignore] # /Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.10.3.2/bin/mtouch \
+	--cache \
+	"/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhone/Debug/mtouch-cache" \
+	--dev \
+	"/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/bin/iPhone/Debug/com.moostep.watchkitextension.appex" \
+	--executable \
+	com.moostep.watchkitextension \
+	--extension \
+	--debug \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.4 \
+	--targetver \
+	8.2 \
+	--abi=armv7,arm64 \
+	--symbollist \
+	"/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhone/Debug/mtouch-symbols.list" \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	"/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/Components/sqlite-net-1.0.8.3/lib/ios-unified/SQLite.dll" \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	"/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/Components/sqlite-net-1.0.8.3/lib/ios-unified/SQLite.dll" \
+	"/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/bin/iPhone/Debug//CityWatchKitExtension.dll" \

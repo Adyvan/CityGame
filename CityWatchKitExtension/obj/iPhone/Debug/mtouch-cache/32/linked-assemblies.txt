@@ -1,0 +1,5 @@
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhone/Debug/mtouch-cache/32/Link/CityWatchKitExtension.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhone/Debug/mtouch-cache/32/Link/System.Core.dll

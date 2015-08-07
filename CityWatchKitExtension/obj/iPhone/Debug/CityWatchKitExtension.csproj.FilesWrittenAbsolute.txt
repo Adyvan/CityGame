@@ -1,0 +1,7 @@
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhone/Debug/
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/bin/iPhone/Debug/CityWatchKitExtension.dll.mdb
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/bin/iPhone/Debug/CityWatchKitExtension.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhone/Debug/CityWatchKitExtension.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhone/Debug/CityWatchKitExtension.dll.mdb
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/bin/iPhone/Debug/SQLite.dll

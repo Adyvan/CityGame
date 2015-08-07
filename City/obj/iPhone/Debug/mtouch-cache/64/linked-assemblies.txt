@@ -1,0 +1,3 @@
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/mtouch-cache/64/Link/City.exe
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/mtouch-cache/64/Link/mscorlib.dll

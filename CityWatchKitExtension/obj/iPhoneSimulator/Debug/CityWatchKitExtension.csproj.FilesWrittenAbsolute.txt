@@ -1,0 +1,14 @@
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhoneSimulator/Debug/
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/bin/iPhoneSimulator/Debug/CityWatchKitExtension.dll.mdb
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/bin/iPhoneSimulator/Debug/CityWatchKitExtension.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhoneSimulator/Debug/CityWatchKitExtension.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/obj/iPhoneSimulator/Debug/CityWatchKitExtension.dll.mdb
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/bin/iPhoneSimulator/Debug/SQLite.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitExtension/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitExtension/obj/iPhoneSimulator/Debug/
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitExtension/bin/iPhoneSimulator/Debug/CityWatchKitExtension.dll.mdb
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitExtension/bin/iPhoneSimulator/Debug/CityWatchKitExtension.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitExtension/obj/iPhoneSimulator/Debug/CityWatchKitExtension.dll
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitExtension/obj/iPhoneSimulator/Debug/CityWatchKitExtension.dll.mdb
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitExtension/bin/iPhoneSimulator/Debug/SQLite.dll

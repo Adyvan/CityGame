@@ -1,0 +1,32 @@
+# Version: 8.10.3.2 (8b265d6)
+# [first argument, ignore] # /Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.10.3.2/bin/mtouch \
+	--cache \
+	"/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/mtouch-cache" \
+	--dev \
+	"/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/bin/iPhone/Debug/City.app" \
+	--executable \
+	City \
+	--debug \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.4 \
+	--targetver \
+	8.4 \
+	--abi=armv7,arm64 \
+	--symbollist \
+	"/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/obj/iPhone/Debug/mtouch-symbols.list" \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	"/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/City/bin/iPhone/Debug//City.exe" \

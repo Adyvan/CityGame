@@ -1,0 +1,10 @@
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitApp/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitApp/obj/iPhoneSimulator/Debug/ibtool/Interface.plist
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitApp/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitApp/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitApp/obj/iPhoneSimulator/Debug/
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitApp/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitApp/obj/iPhoneSimulator/Debug/ibtool/Interface.plist
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitApp/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitApp/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/City/CityWatchKitApp/obj/iPhoneSimulator/Debug/

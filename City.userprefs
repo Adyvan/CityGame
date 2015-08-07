@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="CityWatchKitExtension/CityWatchKitExtension.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="City/AppDelegate.cs">
+    <Files>
+      <File FileName="City/AppDelegate.cs" Line="19" Column="4" />
+      <File FileName="CityWatchKitExtension/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="City" expanded="True">
+            <Node name="City" expanded="True">
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+            <Node name="CityWatchKitApp" expanded="True" />
+            <Node name="CityWatchKitExtension" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="InterfaceController.cs" expanded="True" />
+              <Node name="RowController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/cali4888/MailCloud/Cloud Mail.Ru/Projects/untitled folder/City/CityWatchKitExtension/Data/SqlProvide.cs" line="17" column="23" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
